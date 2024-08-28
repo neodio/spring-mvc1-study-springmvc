@@ -8,6 +8,7 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1
 
 # 환경
  - java 11
+ - Gradle 8.7
  - spring boot 2.7.18
 
 # 구동
